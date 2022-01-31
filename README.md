@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Tobias' GitHub stats](https://github-readme-stats.vercel.app/api?username=schmuecker&show_icons=true&count_private=true&theme=radical)
+![Tobias' GitHub stats](https://github-readme-stats.vercel.app/api?username=schmuecker&show_icons=true&count_private=true&theme=algolia)
